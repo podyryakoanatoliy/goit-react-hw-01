@@ -1,0 +1,18 @@
+.nameFriend {
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+}
+
+.status {
+    font-size: 10px;
+
+}
+
+.isActive {
+    color: rgb(35, 166, 5);
+}
+
+.isOffline {
+    color: rgb(255, 0, 0);
+}
